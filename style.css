@@ -32,7 +32,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-div.container{
+.container{
 background-image: url("https://orig00.deviantart.net/74a1/f/2012/161/f/3/tyto__s_monsoon_by_tytosmonsoonbox-d5303mm.jpg");
   background-position: center center;
   background-size: cover;
@@ -40,7 +40,7 @@ background-image: url("https://orig00.deviantart.net/74a1/f/2012/161/f/3/tyto__s
   width: 100%;
   border: solid;
 }
-div.picture2{
+.picture2{
 background-image: url("https://pre00.deviantart.net/6ac3/th/pre/f/2009/218/a/6/toronto_by_neom.jpg");
   background-position: center center;
   background-size: cover;
